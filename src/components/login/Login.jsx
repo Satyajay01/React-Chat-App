@@ -22,7 +22,7 @@ const Login = () => {
     // Notification--------------
     const handleLogin = e =>{
         e.preventDefault()
-        toast.success("Notification")
+        toast.success(" this is Notification")
     }
 
   return (
